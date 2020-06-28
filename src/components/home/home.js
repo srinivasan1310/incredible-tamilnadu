@@ -1,13 +1,14 @@
 import React from 'react'
 
-class Login extends React.Component{
+
+class Home extends React.Component{
     render() {
         return(
             <div>
-                <h3>Login</h3>
+                <h1>Incredible Tamilnadu</h1>
             </div>
         )
     }
 }
 
-export default Login;
+export default Home;
